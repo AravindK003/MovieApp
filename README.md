@@ -14,6 +14,15 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 The page will reload if you make edits.\
 You will also see any lint errors in the console.
 
+## installation 
+
+cd MovieApp
+
+npm install 
+
+npm start
+
+
 ### `yarn test`
 
 Launches the test runner in the interactive watch mode.\
@@ -46,12 +55,4 @@ You can learn more in the [Create React App documentation](https://facebook.gith
 To learn React, check out the [React documentation](https://reactjs.org/).
 
 
-## installation 
 
-npm install axios
-
-npm install redux-saga
-
-npm install @material-ui/core
-
-npm install @material-ui/icons
