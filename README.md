@@ -16,7 +16,7 @@ You will also see any lint errors in the console.
 
 ## installation 
 
-cd MovieApp
+cd movieapp
 
 npm install 
 
